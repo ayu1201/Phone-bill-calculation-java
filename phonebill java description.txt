@@ -1,0 +1,13 @@
+Hii this is ayush ayu1201
+This is project made in Java for Phone Bill calculation
+It takes user input as Enter Calls Consumed to give total calls fare calculated for that it asks user to enter the count of
+calls made.
+Then it asks- Do You want call break-up....?? (Y/N)
+If user select y or Y it gives the next output if user enters keyword other than y or Y it shows error 
+and gives user another 2 tries to enter the correct choice.
+If user selects n or N then it asks user to enter the count of Local, Std, Isd calls count if the count 
+matches to the total of the call to be calculated by the user in the start then it give the next out  as your final bill is this.
+If the Local, Std, Isd calls entered by the user is not matching to the total of the calls count entered by the user in the 
+start then it gives another 2 tries to the user to enter the correct information.
+If all the things are correct it gives the final out put as your Your Final Bill is...
+This is the full project made with the helf of java.
